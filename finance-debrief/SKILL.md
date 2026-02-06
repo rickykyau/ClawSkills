@@ -1,4 +1,4 @@
-# Market Intel — Daily Finance Research & Debrief
+# Finance Debrief — Daily Finance Research & Debrief
 
 Daily global markets research with actionable summary. Run each morning before market open.
 
@@ -109,7 +109,7 @@ Daily global markets research with actionable summary. Run each morning before m
 ## Output Template
 
 ```markdown
-# Market Intel — [DATE]
+# Finance Debrief — [DATE]
 
 ## 🌏 Global News
 
@@ -182,13 +182,13 @@ Ask: "Run morning market intel" or "What's moving globally today?"
 Add to HEARTBEAT.md:
 ```
 ## Morning Brief — 7:00 AM PT
-Run market-intel skill and post to #investment channel
+Run finance-debrief skill and post to #investment channel
 ```
 
 ### Via Cron
 ```bash
 # 6:30 AM PT daily (before market open)
-cron add --schedule "30 6 * * 1-5" --text "Run market-intel and post to #investment"
+cron add --schedule "30 6 * * 1-5" --text "Run finance-debrief and post to #investment"
 ```
 
 ---
