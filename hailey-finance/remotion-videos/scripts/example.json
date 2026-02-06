@@ -1,0 +1,48 @@
+{
+  "audioFile": "example.mp3",
+  "totalDuration": 30,
+  "voiceoverText": "Hey everyone, welcome to Hailey Finance! Today we're going to talk about something really important - how to build wealth over time. The secret? Start early, stay consistent, and let compound interest do the heavy lifting. Thanks for watching, and don't forget to subscribe!",
+  "slides": [
+    {
+      "text": "Welcome to Hailey Finance",
+      "type": "title",
+      "startTime": 0,
+      "endTime": 4
+    },
+    {
+      "text": "Building Wealth",
+      "subtext": "The simple formula",
+      "type": "point",
+      "startTime": 4,
+      "endTime": 10
+    },
+    {
+      "text": "Start Early",
+      "highlight": "#1",
+      "type": "number",
+      "startTime": 10,
+      "endTime": 15
+    },
+    {
+      "text": "Stay Consistent",
+      "highlight": "#2",
+      "type": "number",
+      "startTime": 15,
+      "endTime": 20
+    },
+    {
+      "text": "Let Compound Interest Work",
+      "highlight": "#3",
+      "type": "number",
+      "startTime": 20,
+      "endTime": 25
+    },
+    {
+      "text": "Subscribe!",
+      "subtext": "New videos every week 🔔",
+      "type": "outro",
+      "startTime": 25,
+      "endTime": 30
+    }
+  ]
+}

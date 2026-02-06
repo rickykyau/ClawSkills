@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Output
+remotion-videos/out/
+*.mp4
+*.mp3
+
+# Config with secrets
+pipeline/config.js
+
+# OS
+.DS_Store

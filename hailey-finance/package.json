@@ -1,0 +1,12 @@
+{
+  "name": "hailey-finance",
+  "version": "1.0.0",
+  "description": "Finance video pipeline with ElevenLabs voiceover and Remotion animations",
+  "keywords": ["finance", "youtube", "video", "elevenlabs", "remotion", "tts"],
+  "author": "Ricky",
+  "license": "MIT",
+  "clawdbot": {
+    "skill": true,
+    "entry": "SKILL.md"
+  }
+}
